@@ -13,11 +13,11 @@ However, you can polyfill the `Array.prototype.indexOf()` method.
 
 
 # Basic Usage
-    var myQueue = new Queue();
-    myQueue.push('myData1');
-    myQueue.push('myData2');
-    myQueue.pop();  // myData2
-    myQueue.pop();  // myData1
+    var myStack = new Stack();
+    myStack.push('myData1');
+    myStack.push('myData2');
+    myStack.pop();  // myData2
+    myStack.pop();  // myData1
 
 
 # APIs
